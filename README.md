@@ -5,20 +5,20 @@ This project explores the potential of deep learning in early detection and diag
 
 ## Dataset Details
 The final dataset consists of 3,234 images across 14 different classes of plant conditions:
-1. Tomato Septoria
-2. Corn Leaf Blight
-3. Squash Powdery Leaf
+1. 
+2. 
+3. 
 4. Apple Healthy
 5. Tomato Bacterial Spot
-6. Tomato Healthy
-7. Apple Rust Leaf
-8. Apple Scab Leaf
-9. Grape Healthy
-10. Corn Rust Leaf
-11. Grape Black Rot
-12. Corn Gray Leaf Spot
-13. BellPepper Healthy
-14. BellPepper Leaf Spot
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
 
 ## Annotation Process
 I used Roboflow to annotate the images needed for training the object detection and instance segmentation models.
